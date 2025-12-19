@@ -37,7 +37,7 @@ export const resumeData: ResumeData = {
       title: "AI/ML Engineer",
       company: "Crux Acuity (Federal Contracts Platform)",
       location: "Fairfax, VA",
-      period: "September 2025 – November 2025",
+      period: "September 2025 – Present",
       description: [
         "Architected and implemented a Python-based visual grounding pipeline for federal solicitation PDFs, creating precise entity-to-location mappings with COCO-style JSON manifests",
         "Developed AI extraction systems for complex federal documents, linking dates, contract IDs, NAICS codes, and regulatory clauses to exact page coordinates",
