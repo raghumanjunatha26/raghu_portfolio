@@ -8,8 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build && touch dist/.nojekyll",
+    "deploy": "gh-pages -d dist --dotfiles"
   },
   "dependencies": {
     "framer-motion": "^12.23.26",
