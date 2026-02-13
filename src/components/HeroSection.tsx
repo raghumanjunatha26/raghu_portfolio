@@ -93,7 +93,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onScrollToNext }) => {
               />
               <div className="relative w-32 h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 rounded-full overflow-hidden border-4 border-white/20 backdrop-blur-sm">
                 <img
-                  src="https://media.licdn.com/dms/image/v2/D4E03AQHLgmij06tOgw/profile-displayphoto-shrink_400_400/B4EZZq91afHkAg-/0/1745551316990?e=1767830400&v=beta&t=BPkJXiSbb-TwW9QuCt3qOXY2m0t5GjXqhApmNz7NP9E"
+                  src="https://media.licdn.com/dms/image/v2/D4E03AQHLgmij06tOgw/profile-displayphoto-shrink_400_400/B4EZZq91afHkAg-/0/1745551316990?e=1772668800&v=beta&t=KUlNre8Xqd_-IO-uGSGx0S1xT3XNxKwSllXBvbM7MQA"
                   alt="Raghu Manjunatha"
                   className="w-full h-full object-cover"
                 />
